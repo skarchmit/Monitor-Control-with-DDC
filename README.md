@@ -7,9 +7,10 @@ Install
 -- download the zip
 -- unzip
 -- drag and drop the unzipped directory (folder) into terminal
-```
+
 
 type: 
+
 ```bash
 make install
 ```
