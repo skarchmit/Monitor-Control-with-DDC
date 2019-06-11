@@ -15,7 +15,7 @@ type:
 make install
 ```
 
-Double click on the alfred workflow called "Alfred Workflow -- Monitor Control"
+Double click on the alfred workflow called "Monitor Control"
 Install it via alfred
 
 Usage
